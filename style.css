@@ -1,0 +1,11 @@
+/* .hidden {
+    display: none;
+} */
+
+main {
+    display: flex;
+    flex: column;
+}
+article img {
+    max-width: 50%;
+}
